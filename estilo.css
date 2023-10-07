@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    background: rgb(40, 40, 40);
+    color: white;
+}
+
+h2{
+    background: linear-gradient(rgb(94, 94, 252),rgb(210, 244, 241));
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.central{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+.justificado{
+    text-align: justify;
+}
+
+.secao2{
+    background-image: url(img/fundo.jpg);
+}
+
+.img-list{
+    list-style-image: url(img/bandeira1.jpg);  
+   
+}
+
